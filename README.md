@@ -84,5 +84,3 @@ springboot-shiro2 也是和dubbo 的结合例子是 消费者的示例。
 Springboot-shiro2 也是和dubbo 的结合例子是 消费者的示例。
 
 
-
-##未完待续。。。
